@@ -3,7 +3,7 @@
 
 ### Basic Resources
 
- - [learncryptography.com](learncryptography.com)
+ - [learncryptography.com](http://learncryptography.com)
  - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) Khan Academy
  - [Pactical Cryptography](http://practicalcryptography.com)
  
